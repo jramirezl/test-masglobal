@@ -25,7 +25,7 @@ and then
 ### Considerations
 - Mocked database on the repository layer
 - Each Time
-- The project is going to run on the defaults configurtion: `localhost:8080`
+- The project is going to run on the defaults configuration: `localhost:8080`
 
 ### Features
 
