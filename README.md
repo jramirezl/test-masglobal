@@ -8,10 +8,12 @@ Swagger will guide the input parameters for the services
 
 To run the project open the console and use:
 
-```mvn clean install```
+* `git clone https://github.com/jramirezl/test-masglobal.git`
+
+* ```mvn clean install```
 
 and then 
-```mvn spring-boot:run```
+* ```mvn spring-boot:run```
 
 * [Index Swagger](http://localhost:8080/swagger-ui.htm)
 * [Index Eemployees Page](http://localhost:8080/employees-view/home)
