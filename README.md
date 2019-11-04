@@ -1,6 +1,6 @@
 # MasGlobal test
 
-Intent to pass teh contact to a directory after few validations
+Employees API query APP
 
 ## Getting Started
 
