@@ -29,6 +29,8 @@ and then
 
 ### Features
 
+- REST API with the url prefix `employees-api` and the view pages with the url `employees-view`
+
 - Data access layer that consumes the following API (that you can test through swagger) as your data repository.
 - Business Logic layer so you can retrieve the employees’ information including a calculated Annual Salary following these rules:
     - Create your DTO (Data Transfer Object) Classes depending on the type of Contract that a given employee has (Hourly or Monthly).
