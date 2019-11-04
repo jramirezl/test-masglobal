@@ -15,6 +15,8 @@ To run the project open the console and use:
 and then 
 * ```mvn spring-boot:run```
 
+After that you can open the next links:
+
 * [Index Swagger](http://localhost:8080/swagger-ui.htm)
 * [Index Eemployees Page](http://localhost:8080/employees-view/home)
 
