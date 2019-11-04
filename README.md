@@ -57,7 +57,7 @@ The view contains a textbox, so the user could type the id of an employee.
 ### Bonus Points
 - Test created for the service `EmployeeService` located on the class `EmployeeServiceTest`
 - Big-O methods documented for `com.masglobalconsulting.javatest.service.EmployeesService.getEmployeeList()`
-- Used Springboot to creat teh REst API WS - with swagger. MVC framework with utilis to create the Service layer
+- Used Springboot to creat teh REST API WS - with swagger. MVC framework with utils to create the Service layer
 and the IoC and DI  pattern applied to wire and compose classes easily thinking in the Unit testing and mocking classes
 
 
